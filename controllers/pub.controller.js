@@ -25,10 +25,6 @@ module.exports = {
                 name: "trug",
                 age: 18
             },
-            {
-                name: "trung",
-                age: 19
-            },
             ],
             message: "query not successfully"
         });
